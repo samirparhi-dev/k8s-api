@@ -1,4 +1,6 @@
 # api
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsamirparhi-dev%2Fk8s-api.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsamirparhi-dev%2Fk8s-api?ref=badge_shield)
+
 
 Schema of the external API types that are served by the Kubernetes API server.
 
@@ -43,3 +45,7 @@ Branches track Kubernetes branches and are compatible with that repo.
 1. https://github.com/kubernetes/kubernetes/blob/master/staging/src/k8s.io/api is synced to k8s.io/api. All changes must be made in the former. The latter is read-only.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsamirparhi-dev%2Fk8s-api.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsamirparhi-dev%2Fk8s-api?ref=badge_large)
